@@ -18,7 +18,7 @@ Time spent: 9 hours spent in total
 <img src='attack_stats.gif' title='AttackStats' width='' />
 
 4. Malware Samples:
-<img src='payloadsreport.gif' title='AttackReport' width='' />
+<img src='payloadsreport.gif' title='Malware' width='' />
 
 ## Any unresolved questions raised by the data collected
 N/A
