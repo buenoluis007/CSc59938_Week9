@@ -3,8 +3,8 @@
 Time spent: 9 hours spent in total
 
 ## Deployed Honeypots
-- mhn-honeypot-1 (dionea)
-- mhn-honeypot-2 (dionea)
+- mhn-honeypot-1 (dionaea)
+- mhn-honeypot-2 (dionaea)
 - mhn-honeypot-3 (snort)
 
 ## Summary of Data Collected
