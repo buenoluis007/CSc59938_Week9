@@ -3,9 +3,9 @@
 Time spent: 9 hours spent in total
 
 ## Deployed Honeypots
-- mhn-honeypot-1
-- mhn-honeypot-2
-- mhn-honeypot-3
+- mhn-honeypot-1 (dionea)
+- mhn-honeypot-2 (dionea)
+- mhn-honeypot-3 (snort)
 
 ## Summary of Data Collected
 1. Sensors Deployed:
